@@ -1,5 +1,7 @@
-Current version: 1.6.19
+Current version: 1.6.17
 =========================
+
+
 Fixed 
 
 
