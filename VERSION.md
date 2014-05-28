@@ -1,8 +1,4 @@
-The changeset
-===========
-- updated
-- things
-- all
+The test again
 
 The changeset
 ===========
@@ -10,9 +6,15 @@ The changeset
 - things
 - all
 
+The changeset
+===========
+- updated
+- things
+- all
 
 
 
 
-Current version: 1.6.17
+
+Current version: 1.6.18
 =========================
